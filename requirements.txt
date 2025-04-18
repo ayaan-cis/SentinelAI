@@ -1,0 +1,7 @@
+pandas~=2.2.3
+numpy~=2.2.4
+joblib~=1.4.2
+Faker~=37.1.0
+scikit-learn~=1.6.1
+streamlit>=1.24.0
+altair>=4.2.0

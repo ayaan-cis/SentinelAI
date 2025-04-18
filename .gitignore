@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.env
+.env.local
+
+# Large data files (optional)
+# Uncomment if you want to exclude large data files from version control
+data/*.csv
+models/*.joblib
+models/*.json
+
+# Logs
+logs/
+*.log
+
+# Logo
+sentinel_ai_logo.png
+
+# Module
