@@ -119,7 +119,7 @@ THREAT_INTELLIGENCE_UPDATE_INTERVAL = 3600  # seconds
 
 ## 📜 License
 
-MIT License - See [LICENSE](LICENSE) for details
+Apache 2.0 License - See [LICENSE](LICENSE) for details
 
 ---
 
