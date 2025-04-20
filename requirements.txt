@@ -5,3 +5,4 @@ Faker~=37.1.0
 scikit-learn~=1.6.1
 streamlit>=1.24.0
 altair>=4.2.0
+matplotlib~=3.10.1

@@ -71,6 +71,7 @@ The AI-powered dashboard provides:
   scikit-learn~=1.6.1
   streamlit>=1.24.0
   altair>=4.2.0
+  matplotlib~=3.10.1
   ```
 
 ### Quick Start
@@ -86,6 +87,7 @@ bash setup.sh
 # Launch security dashboard
 streamlit run app.py
 ```
+#### Note that there are Python3 specific instructions inside the setup.sh file. Simply uncomment the lines.
 
 ## 🔒 Security Research Development
 
