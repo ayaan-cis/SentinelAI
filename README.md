@@ -8,6 +8,8 @@
   <b>Advanced AI-Powered Network Intrusion Detection System</b>
 </p>
 
+Link: https://sentinelaiapp.streamlit.app/
+
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Powered-blue?style=flat-square" alt="AI-Powered"/>
   <img src="https://img.shields.io/badge/Cybersecurity-Advanced-red?style=flat-square" alt="Cybersecurity"/>
